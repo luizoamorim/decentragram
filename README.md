@@ -1,6 +1,16 @@
-## ```"Decentralized Photo Social Media."```
+# ```"Decentralized Photo Social Media."```
 
-### Projec goals
+## Tools, frameworks and libraries
+- ReactJS
+- Solidity
+- Ethereum
+- Ganache
+- Truffle
+- Infura.io
+- Web3.js
+- IPFS
+
+## Projec goals
 - Create a smart contract with solidity;
 - Create a frontend with ReactJS;
 - Connect, storage and get data from IPFS network.
@@ -19,6 +29,11 @@ The frontend will have the follow features:
 image's hash and will storage it in the ganache blockchain.
 - Then the frontend can show the images storaged and allow someone tip some ether
 for images of another users.
+
+# Project Result
+
+# References
+This project was cloned from DappUniversity tutorial.
 
 ## Youtube video
 
